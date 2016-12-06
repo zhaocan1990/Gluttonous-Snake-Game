@@ -1,4 +1,4 @@
-  /***z2016年11月29日10:58:57*****/
+  /***2016年11月29日10:58:57*****/
   var canvas = document.getElementById('canvas');
         var ctx = canvas.getContext('2d');
 
